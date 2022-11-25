@@ -1,0 +1,430 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jordi",
+      "surnames": "Mon Companys",
+      "title": "Product Manager and Marketer. Host of the Software Engineering Daily podcast.",
+      "description": "Product Manager and Marketer that dwells with designers and coders.  Clear focus on go to market strategy and tactics, product positioning and messaging and strategic enablement of Product (competitive intel), Sales (critical capabilities), and Marketing (market trends and categories).",
+      "avatar": {
+        "alt": "OpenUK selfie.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/25/b81ab61c-c84c-4c90-8521-e8989a9b790b_openuk-selfie.jpeg"
+      },
+      "location": {
+        "country": "Reino Unido",
+        "region": "Inglaterra",
+        "municipality": "Londres"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jordimoncompanys"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Torc "
+        },
+        "roles": [
+          {
+            "name": "Product Specialist",
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Software Daily "
+        },
+        "roles": [
+          {
+            "name": "Podcast Host",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "https://softwareengineeringdaily.com/our-team/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "London Git user group organizer",
+            "startDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Trying to gather and rally the Git community in London to welcome new contributors, mentor them and share Git news and milestones with the world. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "OpenUK "
+        },
+        "roles": [
+          {
+            "name": "Ambassador",
+            "startDate": "2021-02-01",
+            "challenges": [
+              {
+                "description": "The OpenUK Ambassadors support the work of OpenUK, promote the organisation’s purpose of developing UK Leadership in Open Technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Product Marketing Alliance "
+        },
+        "roles": [
+          {
+            "name": "Ambassador",
+            "startDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "Product Marketing Alliance was founded in March 2019 and has since evolved into the world’s biggest product marketing community. Their Slack channel, events, and unrivaled content unites more than 20,000 PMMs all over the world. Their mission is simple: to promote and elevate the role of product marketing.\n\nSince their inception, they’ve been defining and debating the product marketing function and have published a number of industry-leading reports - like the State of Product Marketing and Product Marketing Salary Survey.\n\n“The community hasn’t just been an absolute wealth of knowledge and answers—it’s a place of constant inspiration.” The epitome of PMA, summed up to a tee by one very happy member."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "isocpp"
+        },
+        "roles": [
+          {
+            "name": "Editor at C++ Standard's Committee website",
+            "startDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "Curate, edit and share content relevant to the C++ community "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Harness "
+        },
+        "roles": [
+          {
+            "name": "Director of Product Marketing",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "Leading the marketing team towards product development influence and sales enablement along driving product launches."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Weaveworks "
+        },
+        "roles": [
+          {
+            "name": "Director of Product Marketing",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "New product launch, tiering and positioning. A company transitioning from OSS tech + Professional Services to Open Core requires a lot of change on release readiness, enablement and product launching. This is specially true for the Continuous Delivery and Progressive Delivery market and even more so for a category creator (GitOps) and a category leader. This is what I am here for, to nail a value proposition, to sync and consolidate outbound and inbound strategies, to support sales opportunities with partners and to deliver a coherent message to each customer segment that is relevant to their use case.\n\nReporting directly to the COO I fill in the gaps between Sales, Product/Engineering and Marketing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GitLab Inc. "
+        },
+        "roles": [
+          {
+            "name": "Senior Product Marketing Manager",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-12-31",
+            "challenges": [
+              {
+                "description": "Use case driven GTM, Speaker and panelist, competitive intel and more. Sticking all the bits and pieces of the biggest all remote company together. From Product to Sales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Codice Software"
+        },
+        "roles": [
+          {
+            "name": "Senior Product Marketing Manager",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "Códice Software is a company that has been building developer tools for almost 15 years. It is focused on source control tools. The portfolio consists of a full version control stack called Plastic SCM, a semantic merge tool called Semantic Merge and a Git client with semantic functionality called gmaster. \n\nAs a senior PM my mission was twofold: increasing product activation and reducing churn in SaaS tier. To meet the first goal, product education was fundamental. An on boarding email drip with the key first steps linked to video material explaining the same basic functionality in more detail was setup. Product instrumentation was prioritized to increase the the amount of product usage data focused on interaction, copy and performance. A free one-hour personalized on boarding session with product experts was implemented to complement and extend the first steps automated communication.\n\nAs for churn, feedback loops were shortened by setting up more frequent, shorter surveys to new and mature users. Feedback from one to ones with clients and prospects was added to the information retrieval process, nurturing and modifying the roadmap to a more integrated, more consistent, more intuitive product. In consequence, integration to tools such as IntelliJ, Qt, Jenkins X, Unreal Engine or Unity was prioritized and had resources dedicated to them. .NET framework + Mono for cross platform porting (see case study in Mono’s blog below) was deprecated in benefit of .NET Core which offered better consistency across platforms. Tooltips, self descriptive copy, guides matching Git concepts to Plastic commands and many more text-based help was implemented throughout the product to increase time spent on the GUIs.\n\nAwarness was fundamental too to product adoption. Check all the links below that consist of interviews, product show cases or even webinars I organized, managed and delivered. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SDL plc"
+        },
+        "roles": [
+          {
+            "name": "Global Product Marketing Manager",
+            "startDate": "2018-07-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "Acquired Donnelley Language Solutions in 2018."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vozpópuli"
+        },
+        "roles": [
+          {
+            "name": "Contributing Writer ",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
+              {
+                "description": "Showcasing monthly complex products that handle huge amounts of data with elegant outcomes. I try to bridge the gap between how technologically tricky products and services and general understanding in a national media outlet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bendita Llave"
+        },
+        "roles": [
+          {
+            "name": "Investor",
+            "startDate": "2017-09-01",
+            "finishDate": "2022-08-31",
+            "challenges": [
+              {
+                "description": "Bendita Llave es al solución perfecta para quienes se dejan las llaves en casa cada dos por tres. También aquellos negocios que tengan accesos controlados a viviendas en alquiler o en propiedad saben que copias de llaves impresas en 3D son de mucha utilidad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Donnelley Language Solutions and MultiTrans"
+        },
+        "roles": [
+          {
+            "name": "Global Product Marketing Manager",
+            "startDate": "2016-09-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "Podcast 052: Where Do You Fit in the MT Maturity Model?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Branch"
+        },
+        "roles": [
+          {
+            "name": "Ambassador",
+            "startDate": "2016-05-01",
+            "finishDate": "2020-05-31",
+            "challenges": [
+              {
+                "description": "Branch is an analytics platform based on deep linking technology that wants to mobile users to enjoy the same experience as in the web while mobile marketers, designers and devs keep attribution, design fluid user flows and awesome experiences in the fragmented mobile landscape.\n\nAs an ambassador I spearhead commercial efforts by building awarness through event organization (Mobile Growth meetups), event participation (see links below) and enterprise lead generation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Product Hunt"
+        },
+        "roles": [
+          {
+            "name": "Organizer and City Leader of Product Hunt Madrid",
+            "startDate": "2014-10-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "Madrid Product Hunt is a local event of Product Hunt. Its main aim is to make a transparent presentation of a digital product or service from three perspectives:\n\n→ Design decisions made in the concept, research and iteration phases\n\n→ Technology stack chosen with its challenges and liabilities\n\n→ Business model\n\nI was invited to LocWorld 37 in June 2018 at Warsaw. LocWorld is the biggest localization industry forum and I was there to talk about community growth and global brands:\n\nhttps://locworld.com/speakers/jordi-mon/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "C and C++ Meetup Madrid"
+        },
+        "roles": [
+          {
+            "name": "Organizer",
+            "startDate": "2014-07-01",
+            "finishDate": "2019-11-30",
+            "challenges": [
+              {
+                "description": "The event tries to provide the Spanish C and C++ communities with interesting talks and cutting-edge workshops on the different fields both languages are dominant like embedded devices, IoT, video games, performance..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Biicode"
+        },
+        "roles": [
+          {
+            "name": "Product Marketing Manager",
+            "startDate": "2011-07-01",
+            "finishDate": "2013-01-31",
+            "challenges": [
+              {
+                "description": "New Open Source Dependency Manager on the Scene"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/jordimoncompanys"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Balsamiq",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Google Analytics",
+          "type": "technology"
+        },
+        {
+          "name": "Google Sheets",
+          "type": "technology"
+        },
+        {
+          "name": "Productboard",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Product Marketing"
+      ]
+    }
+  }
+}
