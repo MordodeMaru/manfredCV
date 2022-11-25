@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,13 +17,18 @@
       "location": {
         "country": "Reino Unido",
         "region": "Inglaterra",
-        "municipality": "Londres"
+        "municipality": "Londres",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/jordimoncompanys"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jordimonpmm"
       }
     ]
   },
@@ -334,13 +339,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "French"
+        "name": "French",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -425,6 +433,7 @@
       "preferredRoles": [
         "Product Marketing"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
