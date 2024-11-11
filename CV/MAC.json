@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,32 +11,33 @@
       "title": "Product Manager and Marketer. Host of the Software Engineering Daily podcast.",
       "description": "Product Manager and Marketer that dwells with designers and coders.  Clear focus on go to market strategy and tactics, product positioning and messaging and strategic enablement of Product (competitive intel), Sales (critical capabilities), and Marketing (market trends and categories).",
       "avatar": {
-        "alt": "OpenUK selfie.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/25/b81ab61c-c84c-4c90-8521-e8989a9b790b_openuk-selfie.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/25/b81ab61c-c84c-4c90-8521-e8989a9b790b_openuk-selfie.jpeg",
+        "alt": "OpenUK selfie.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJdd4hrwug2EcRmSrV3Vo6llI)",
         "country": "Reino Unido",
         "region": "Inglaterra",
-        "municipality": "Londres",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Londres"
       }
     },
     "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/mordodemaru"
-      },
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/jordimoncompanys"
       },
       {
-        "type": "other",
-        "URL": "https://mon.company"
+        "type": "github",
+        "URL": "https://github.com/mordodemaru"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/jordimonpmm"
+      },
+      {
+        "type": "other",
+        "URL": "https://mon.company",
+        "description": "Personal website"
       }
     ]
   },
@@ -76,6 +77,23 @@
       },
       {
         "organization": {
+          "name": "Harness "
+        },
+        "roles": [
+          {
+            "name": "Director of Product Marketing",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "Leading the marketing team towards product development influence and sales enablement along driving product launches."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelance"
         },
         "roles": [
@@ -101,55 +119,6 @@
             "challenges": [
               {
                 "description": "The OpenUK Ambassadors support the work of OpenUK, promote the organisation’s purpose of developing UK Leadership in Open Technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Product Marketing Alliance "
-        },
-        "roles": [
-          {
-            "name": "Ambassador",
-            "startDate": "2019-02-01",
-            "challenges": [
-              {
-                "description": "Product Marketing Alliance was founded in March 2019 and has since evolved into the world’s biggest product marketing community. Their Slack channel, events, and unrivaled content unites more than 20,000 PMMs all over the world. Their mission is simple: to promote and elevate the role of product marketing.\n\nSince their inception, they’ve been defining and debating the product marketing function and have published a number of industry-leading reports - like the State of Product Marketing and Product Marketing Salary Survey.\n\n“The community hasn’t just been an absolute wealth of knowledge and answers—it’s a place of constant inspiration.” The epitome of PMA, summed up to a tee by one very happy member."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "isocpp"
-        },
-        "roles": [
-          {
-            "name": "Editor at C++ Standard's Committee website",
-            "startDate": "2013-01-01",
-            "challenges": [
-              {
-                "description": "Curate, edit and share content relevant to the C++ community "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Harness "
-        },
-        "roles": [
-          {
-            "name": "Director of Product Marketing",
-            "startDate": "2022-02-01",
-            "finishDate": "2022-10-31",
-            "challenges": [
-              {
-                "description": "Leading the marketing team towards product development influence and sales enablement along driving product launches."
               }
             ]
           }
@@ -184,6 +153,22 @@
             "challenges": [
               {
                 "description": "Use case driven GTM, Speaker and panelist, competitive intel and more. Sticking all the bits and pieces of the biggest all remote company together. From Product to Sales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Product Marketing Alliance "
+        },
+        "roles": [
+          {
+            "name": "Ambassador",
+            "startDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "Product Marketing Alliance was founded in March 2019 and has since evolved into the world’s biggest product marketing community. Their Slack channel, events, and unrivaled content unites more than 20,000 PMMs all over the world. Their mission is simple: to promote and elevate the role of product marketing.\n\nSince their inception, they’ve been defining and debating the product marketing function and have published a number of industry-leading reports - like the State of Product Marketing and Product Marketing Salary Survey.\n\n“The community hasn’t just been an absolute wealth of knowledge and answers—it’s a place of constant inspiration.” The epitome of PMA, summed up to a tee by one very happy member."
               }
             ]
           }
@@ -327,6 +312,22 @@
       },
       {
         "organization": {
+          "name": "isocpp"
+        },
+        "roles": [
+          {
+            "name": "Editor at C++ Standard's Committee website",
+            "startDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "Curate, edit and share content relevant to the C++ community "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Biicode"
         },
         "roles": [
@@ -347,19 +348,34 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "French",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Git",
@@ -368,7 +384,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -383,17 +399,25 @@
           "name": "HTML",
           "type": "technology"
         }
-      },
+      }
+    ],
+    "softSkills": [
       {
         "skill": {
-          "name": "Figma",
-          "type": "technology"
+          "name": "Ability to receive feedback",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "GitLab",
-          "type": "technology"
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
         }
       }
     ]
@@ -402,8 +426,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/jordimoncompanys"
+          "URL": "https://linkedin.com/in/jordimoncompanys",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/mordodemaru",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/jordimonpmm",
+          "type": "twitter"
         }
       ]
     },
@@ -442,6 +474,10 @@
         "Product Marketing"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I'd like to work at companies that value blameless culture, iterative progress and async work. ",
+    "goodPractices": "Async written communication. Domain Driven Design and Wardley Mapping."
   }
 }
